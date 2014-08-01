@@ -2,20 +2,20 @@ package generics;
 
 public class GenricStackDemo {
 
-    public static void main(String[] args) {
-        GenericStack<String> stack = new GenericStack<>();
-        
-        //Add elements to the stack
-        stack.push("Element 1");
-        stack.push("Element 2");
-        stack.push("Element 3");
-        stack.push("Element 4");
-        stack.push("Element 5");
-        
-        System.out.println("Stack size : "+stack.getSize());
-        
-        
-    }
+//    public static void main(String[] args) {
+//        GenericStack<String> stack = new GenericStack<>();
+//        
+//        //Add elements to the stack
+//        stack.push("Element 1");
+//        stack.push("Element 2");
+//        stack.push("Element 3");
+//        stack.push("Element 4");
+//        stack.push("Element 5");
+//        
+//        System.out.println("Stack size : "+stack.getSize());
+//        
+//        
+//    }
 
 }
 
